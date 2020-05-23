@@ -1,0 +1,25 @@
+C:\Users\Maksim Baranov\Desktop\Kursova_rabota-master\Kursova_rabota-master\bin\Debug\Курсовая работа.exe.config
+C:\Users\Maksim Baranov\Desktop\Kursova_rabota-master\Kursova_rabota-master\bin\Debug\Курсовая работа.exe
+C:\Users\Maksim Baranov\Desktop\Kursova_rabota-master\Kursova_rabota-master\bin\Debug\Курсовая работа.pdb
+C:\Users\Maksim Baranov\Desktop\Kursova_rabota-master\Kursova_rabota-master\obj\Debug\Курсовая работа.csprojAssemblyReference.cache
+C:\Users\Maksim Baranov\Desktop\Kursova_rabota-master\Kursova_rabota-master\obj\Debug\Курсовая работа.csproj.ResolveComReference.cache
+C:\Users\Maksim Baranov\Desktop\Kursova_rabota-master\Kursova_rabota-master\obj\Debug\kurse_work.Form1.resources
+C:\Users\Maksim Baranov\Desktop\Kursova_rabota-master\Kursova_rabota-master\obj\Debug\Курсовая_Давид.Form2.resources
+C:\Users\Maksim Baranov\Desktop\Kursova_rabota-master\Kursova_rabota-master\obj\Debug\Курсовая_работа.Properties.Resources.resources
+C:\Users\Maksim Baranov\Desktop\Kursova_rabota-master\Kursova_rabota-master\obj\Debug\Курсовая работа.csproj.GenerateResource.cache
+C:\Users\Maksim Baranov\Desktop\Kursova_rabota-master\Kursova_rabota-master\obj\Debug\Курсовая работа.csproj.CoreCompileInputs.cache
+C:\Users\Maksim Baranov\Desktop\Kursova_rabota-master\Kursova_rabota-master\obj\Debug\Курсовая работа.exe
+C:\Users\Maksim Baranov\Desktop\Kursova_rabota-master\Kursova_rabota-master\obj\Debug\Курсовая работа.pdb
+C:\Users\user\Downloads\Kursova_rabota\Kursova_rabota\bin\Debug\Курсовая работа.exe.config
+C:\Users\user\Downloads\Kursova_rabota\Kursova_rabota\bin\Debug\Курсовая работа.exe
+C:\Users\user\Downloads\Kursova_rabota\Kursova_rabota\bin\Debug\Курсовая работа.pdb
+C:\Users\user\Downloads\Kursova_rabota\Kursova_rabota\obj\Debug\Курсовая работа.csprojAssemblyReference.cache
+C:\Users\user\Downloads\Kursova_rabota\Kursova_rabota\obj\Debug\Interop.AdHocReportingExcelClientLib.dll
+C:\Users\user\Downloads\Kursova_rabota\Kursova_rabota\obj\Debug\Курсовая работа.csproj.ResolveComReference.cache
+C:\Users\user\Downloads\Kursova_rabota\Kursova_rabota\obj\Debug\kurse_work.Form1.resources
+C:\Users\user\Downloads\Kursova_rabota\Kursova_rabota\obj\Debug\Курсовая_работа.Properties.Resources.resources
+C:\Users\user\Downloads\Kursova_rabota\Kursova_rabota\obj\Debug\Курсовая работа.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Kursova_rabota\Kursova_rabota\obj\Debug\Курсовая работа.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Kursova_rabota\Kursova_rabota\obj\Debug\Курсовая работа.exe
+C:\Users\user\Downloads\Kursova_rabota\Kursova_rabota\obj\Debug\Курсовая работа.pdb
+C:\Users\user\Downloads\Kursova_rabota\Kursova_rabota\obj\Debug\Курсовая_.Form2.resources
